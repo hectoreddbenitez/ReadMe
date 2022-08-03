@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Héctor</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Car Shop and projec and Delivery App**
+- 🔭 I’m currently working on **Delivery App project**
 
 - 🌱 I’m currently learning **Python**
 
